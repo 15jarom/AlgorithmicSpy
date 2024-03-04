@@ -52,17 +52,16 @@ The SGDRegressor plot shows that the actual value and the predicted value are ve
 ![TrendsSGD](Images/SGDUpdated.png)
 
 
+The SGDRegressor model appears to be the most precise, as validated through backtesting. 
 
 
 
-
-# Trading Bot
 
 
 ## Creators
 **Jarom L.** (Lead SGDRegressor Model Programmer)
 
-**Jahun M.** (Lead Trading Bot Programmer)
+**Jahun M.** (Starter code, Data clean up)
 
 **Khareem H.** ( Neural Networks 
 Programmer)
@@ -80,3 +79,11 @@ https://scikit-learn.org/stable/modules/sgd.html#regression
 https://www.datatechnotes.com/2020/09/regression-example-with-sgdregressor-in-python.html
 
 https://realpython.com/gradient-descent-algorithm-python/
+
+https://home.treasury.gov/interest-rates-data-csv-archive
+
+https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm
+
+https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange
+
+https://www.slickcharts.com/sp500
