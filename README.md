@@ -61,7 +61,7 @@ The SGDRegressor model appears to be the most precise, as validated through back
 ## Creators
 **Jarom L.** (Lead SGDRegressor Model Programmer)
 
-**Jahun M.** (Starter code, Data clean up)
+**Jahun M.** (Trading Bot Programmer)
 
 **Khareem H.** ( Neural Networks 
 Programmer)
